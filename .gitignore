@@ -5,7 +5,8 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Screenshots
+# Screenshots (auto-generated, exclude all)
+screenshots/
 screenshot_*.jpg
 emotion_screenshot_*.jpg
 
