@@ -14,6 +14,9 @@ emotion_screenshot_*.jpg
 *copy.py
 *_backup.txt
 
+# Database - too large for GitHub, stored locally
+database/
+
 # OS files
 .DS_Store
 Thumbs.db
